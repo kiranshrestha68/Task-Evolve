@@ -1,0 +1,32 @@
+{
+    "moderntrade": [
+      {
+        "Device": "Big Spot",
+        "Total": 2,
+        "Audited": 2,
+        "pending_audits": 1
+    
+      },
+      {
+        "Device": "Floor Standing ",
+        "Total": 1,
+        "Audited": 1,
+        "pending_audits": 0
+      }
+    ],
+  
+    "generaltrade": [
+      {
+        "Device": "Hello world ",
+        "Total": 2,
+        "Audited": 2,
+        "pending_audits": 0
+      },
+      {
+        "Device": "Hello Evolve",
+        "Total": 1,
+        "Audited": 6,
+        "pending_audits": 3
+      }
+    ]
+  }

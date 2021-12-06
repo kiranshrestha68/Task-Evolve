@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+}
+
+.App {
+  display: flex;
+  
+
+}
+
+.App__Sidebar {
+  flex: 2;
+  border-right: 1px solid #c0bdbd;
+  padding: 1.5% 1% 0 0;
+  background-color: #edeaea;
+  min-height: 100vh;
+
+}
+
+.App__Mainpage {
+  flex: 12;
+  margin-right: 2%;
+}

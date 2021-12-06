@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,100&family=Roboto:wght@500&family=STIX+Two+Text:wght@400;600;700&display=swap");
+
+.trade {
+  border: 1px solid #e6dddd;
+  border-radius: 10px;
+  width: 30%;
+  padding: 2% 2% 2% 2%;
+  margin-left: 1%;
+  box-shadow: 2px 2px 5px #e6dddd;
+  font-family: "Source Sans Pro", sans-serif;
+  margin-right: 2%;
+}
+
+.trade > h3 {
+  margin-bottom: 8%;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.trade__items {
+  display: flex;
+  justify-content: space-between;
+}
+
+.trade__subHead {
+  display: flex;
+  flex-direction: column;
+}
+
+.trade__audited {
+  display: flex;
+  line-height: 20px;
+  color: grey;
+  font-size: 15px;
+}
+
+.trade__number {
+  color: #3d79b8;
+  font-weight: bold;
+  margin-top: 10px;
+  font-size: 30px;
+}
+.trade_pending {
+  margin-left: 10px;
+}

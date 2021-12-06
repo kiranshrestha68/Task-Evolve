@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,100&family=Roboto:wght@500&family=STIX+Two+Text:wght@400;600;700&display=swap");
+
+.deviceTrade__main {
+  border: 1px solid #e6dddd;
+  border-radius: 10px;
+  width: 40%;
+
+  margin-left: 1%;
+  box-shadow: 2px 2px 5px #e6dddd;
+  font-family: "Source Sans Pro", sans-serif;
+
+  margin-right: 2%;
+}
+
+
+.deviceTrade__type{
+  padding: 2%;
+  font-weight: bold;
+  font-family: "Source Sans Pro", sans-serif;
+
+}
+
+.deviceTrade__table{
+  padding-left: 2%;
+}
+
+.tablecolor{
+  background-color:#f8efef;
+  
+}
