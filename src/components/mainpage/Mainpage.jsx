@@ -14,15 +14,11 @@ const Mainpage = () => {
       <Topbar />
       <div className="mainpage__trade">
         {" "}
-        <Trade heading="Modern Trade" />{" "}
-        <Modern heading="General Trade"/>{" "}
-
+        <Trade heading="Modern Trade" /> <Modern heading="General Trade" />{" "}
       </div>
       <div className="mainpage__deviceTrade">
-      <DeviceTrade/>
-      <ModernTrade/>
-
-
+        <DeviceTrade />
+        <ModernTrade />
       </div>
     </div>
   );

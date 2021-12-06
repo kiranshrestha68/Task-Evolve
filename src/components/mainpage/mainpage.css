@@ -11,3 +11,12 @@
     margin-top: 2.5%;
     display: flex;
 }
+
+
+@media screen and (max-width: 1169px) {
+    .mainpage__deviceTrade{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+}
